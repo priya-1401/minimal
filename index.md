@@ -1,123 +1,96 @@
 ---
 layout: default
+title: "Dwara Veera Lakshmi Priya"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👩‍💻 Dwara Veera Lakshmi Priya  
 
-[Link to another page](./another-page.html).
+📧 [lakshmipriyadwara1234@gmail.com](mailto:lakshmipriyadwara1234@gmail.com)  
+📞 +91 8008900759  
+🎂 DOB: 14 Jan, 2004  
 
-There should be whitespace between paragraphs.
+🌐 [GitHub](https://github.com/priya-1401) | [LinkedIn](https://www.linkedin.com/in/lakshmi-priya-dwara-86b002282/) | [GeeksForGeeks](https://www.geeksforgeeks.org/user/21131amuwt/) | [LeetCode](https://leetcode.com/u/21131A0545/) | [HackerRank](https://www.hackerrank.com/profile/21131a0545)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🎓 Education  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **B. Tech, Computer Science Engineering**  
+  *Gayatri Vidya Parishad College of Engineering*  
+  2021–2025 | Visakhapatnam  
+  **CGPA:** 8.98  
 
-## Header 2
+- **Intermediate (MPC)**  
+  *Aditya Junior College*  
+  2019–2021 | Palakole  
+  **Percentage:** 96.6  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **10th Standard**  
+  *Aditya Public School*  
+  2018–2019 | Palakole  
+  **GPA:** 10  
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 💻 Skills  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Programming Languages**: C++ (Advanced), C, Python (Intermediate)  
+- **Web Technologies**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
+- **Databases**: SQL, MongoDB  
+- **Core Concepts**: Data Structures & Algorithms, Computer Networks, Machine Learning  
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 🚀 Projects  
 
-##### Header 5
+### 🔹 Malicious URL Detection (Machine Learning)  
+- Built a **LightGBM-based model** for classifying malicious URLs (phishing, malware, defacement, benign) with **95.9% accuracy**.  
+- Engineered 20+ handcrafted features (IP usage, suspicious keywords, TLD length, etc.).  
+- Used **Seaborn** & **WordCloud** for pattern visualization.  
+- Deployed with Pickle for real-time predictions.  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[🔗 GitHub Repo](https://github.com/priya-1401)  
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### 🔹 Sliding Puzzle Solver (Python | Pygame)  
+- Implemented a **grid-based puzzle solver** with dynamic tile movement.  
+- Designed a shuffling algorithm to handle **50+ puzzle configurations**.  
 
-### There's a horizontal rule below this.
+---
 
-* * *
+### 🔹 iNotebook (MERN Stack | Render Deployment)  
+- Full-stack app with **JWT Authentication** & **MongoDB Atlas** for secure note management.  
+- CRUD operations with **React + Node + Express**.  
+- Deployed on Render for reliability & scalability.  
 
-### Here is an unordered list:
+[🔗 Deployment Link](https://inotebook-main-thnk.onrender.com/)  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+### 🔹 NewsApp (React | NewsAPI)  
+- Responsive news app with **category-based filtering**, **infinite scrolling**, and **smooth navigation**.  
+- Developed a **mobile-friendly UI** with Bootstrap.  
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## 🏅 Certifications  
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Certificate of Completion — **Cyberthreya: Introduction to Cybersecurity & Ethical Hacking**  
+- **Full Stack Web Development (AICTE)** — Hands-on responsive web app development  
+- **Palo Alto Cybersecurity (AICTE)**  
 
-### Small image
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## ⚡ Extra-Curricular Activities  
 
-### Large image
+- 🥈 Secured **2nd place** in NSS Throwball Competition (National Youth Day 2024)  
+- 🏋️‍♀️ Competed in **Shot Put** at college annual sports  
+- 🤝 Active **Rotaract Club (GVPCOE) Volunteer**, organizing awareness events  
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
 
+## 🌐 Languages  
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Telugu  
+- English  
