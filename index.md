@@ -1,123 +1,72 @@
+# Dwara Veera Lakshmi Priya  
+📧 lakshmipriyadwara1234@gmail.com | 📞 +91 8008900759 | 🎂 14 Jan 2004  
+🌍 Visakhapatnam, India  
+
 ---
-layout: default
+
+
+## Machine Learning
+
+### Malicious URL Detection Using Machine Learning  
+
+Developed a multi-class classification model using **LightGBM** to detect malicious URLs (phishing, malware, defacement, benign) with **95.9% accuracy** based on handcrafted URL features.  
+Engineered **20+ features** (IP usage, suspicious keywords, TLD length, etc.), visualized patterns using **Seaborn** and **WordCloud**, and deployed the model with Pickle for real-time prediction.  
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/priya-1401)  
+
+<center><img src="images/malicious_url.jpg"/></center>  
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Sliding Puzzle Solver  
 
-[Link to another page](./another-page.html).
+Implemented a grid-based **game logic** with dynamic tile movement for seamless player interaction.  
+Designed an efficient **shuffling algorithm** to randomize the puzzle layout and successfully solved **50+ puzzle configurations**.  
 
-There should be whitespace between paragraphs.
+Technologies: **Python, Pygame**  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/priya-1401)  
 
-# Header 1
+<center><img src="images/sliding_puzzle.jpg"/></center>  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Web Development  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### iNotebook – MERN Stack Application  
 
-### Header 3
+Developed a **full-stack MERN application** with JWT authentication and MongoDB Atlas for secure cloud storage and seamless note management.  
+Implemented **CRUD operations** on notes using React, Express.js, and Node.js, and deployed the application on **Render** for scalable hosting.  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Deployment: [iNotebook](https://inotebook-main-thnk.onrender.com/)  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/priya-1401)  
 
-#### Header 4
+<center><img src="images/inotebook.jpg"/></center>  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### NewsApp – React & NewsAPI  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Built a **responsive news web app** using React.js and NewsAPI, featuring **category-wise news updates**, infinite scrolling, and smooth navigation with React Router.  
+Developed a **mobile-friendly UI** with Bootstrap, enhancing performance and user experience.  
 
-###### Header 6
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/priya-1401)  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+<center><img src="images/newsapp.jpg"/></center>  
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## Skills  
 
-### Here is an unordered list:
+- **Languages & Programming**: C++ (Advanced), C, Python (Intermediate)  
+- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
+- **Databases**: SQL, MongoDB  
+- **Core Concepts**: Data Structures & Algorithms, Computer Networks  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## Certifications  
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Cyberthreya – *Introduction to Cybersecurity and Ethical Hacking*  
+- AICTE – *Full Stack Web Development* (Hands-on projects, re
