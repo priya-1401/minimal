@@ -1,6 +1,26 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "Dwara Veera Lakshmi Priya"
+logo: /assets/img/shared image (1).jpeg
+ 
+description: |
+<p align="center" style="margin-bottom: 10px;">
+<a href="https://www.linkedin.com/in/lakshmi-priya-dwara-86b002282/">LinkedIn</a> &nbsp;|&nbsp; 
+<a href="https://github.com/priya-1401">GitHub</a>
+</p>
+ 
+  <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+    Experienced in building scalable FullStack Projects and Data Stuructures and Algorithms with strong foundation in <strong>Java</strong>, <strong>C++</strong> programming languages. Implemented Full Stack projects like <strong>INotebook</strong> and <strong>NewsApp</Strong>. 
+</p>
+ 
 theme: jekyll-theme-minimal
+ 
+linkedin_username: lakshmi-priya-dwara-86b002282
+github_username: priya-1401
+ 
+plugins:
+  - jekyll-remote-theme
+ 
+remote_theme: pages-themes/minimal@v0.2.0
+ 
+show_downloads: false
+ 
+repository: ""  # Optional: Hides GitHub footer link
